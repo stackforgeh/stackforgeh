@@ -6,7 +6,7 @@
 
 *Website Builder · Telegram Bot Builder · AI Agent Builder · API Builder · Mobile App Builder · CLI Tool Builder*
 
-[![StackForge](https://img.shields.io/github/stars/stackforgeh/stackforge-agent-skill?style=flat-square&logo=github&color=00ff88)](https://github.com/stackforgeh/stackforge-agent-skill)
+[![StackForge](https://img.shields.io/github/stars/stackforgeh/skill-builder?style=flat-square&logo=github&color=00ff88)](https://github.com/stackforgeh/skill-builder)
 [![Portfolio](https://img.shields.io/badge/Portfolio-stackforgeh.github.io-00ff88?style=flat-square)](https://stackforgeh.github.io)
 [![Telegram](https://img.shields.io/badge/Telegram-@REXXT_H4RE-0088cc?style=flat-square&logo=telegram)](https://t.me/REXXT_H4RE)
 
@@ -18,8 +18,8 @@
 
 ```bash
 # Install StackForge
-git clone https://github.com/stackforgeh/stackforge-agent-skill.git
-cp -r stackforge-agent-skill ~/.config/opencode/skills/stackforge
+git clone https://github.com/stackforgeh/skill-builder.git
+cp -r skill-builder ~/.config/opencode/skills/stackforge
 
 # Then tell your AI assistant:
 # "I want to build a Telegram bot for food ordering"
@@ -42,6 +42,6 @@ cp -r stackforge-agent-skill ~/.config/opencode/skills/stackforge
 
 ### Quick Links
 
-- **Agent Skill**: [github.com/stackforgeh/stackforge-agent-skill](https://github.com/stackforgeh/stackforge-agent-skill)
+- **Agent Skill**: [github.com/stackforgeh/skill-builder](https://github.com/stackforgeh/skill-builder)
 - **Portfolio**: [stackforgeh.github.io](https://stackforgeh.github.io)
 - **Telegram**: [@REXXT_H4RE](https://t.me/REXXT_H4RE) (codex_update)
