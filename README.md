@@ -6,8 +6,8 @@
 
 *Website Builder · Telegram Bot Builder · AI Agent Builder · API Builder · Mobile App Builder · CLI Tool Builder*
 
-[![StackForge](https://img.shields.io/github/stars/stackforgeh/skill-builder?style=flat-square&logo=github&color=00ff88)](https://github.com/stackforgeh/skill-builder)
-[![Portfolio](https://img.shields.io/badge/Portfolio-stackforgeh.github.io-00ff88?style=flat-square)](https://stackforgeh.github.io)
+[![StackForge](https://img.shields.io/github/stars/codexskills/skill-builder?style=flat-square&logo=github&color=00ff88)](https://github.com/codexskills/skill-builder)
+[![Portfolio](https://img.shields.io/badge/Portfolio-codexskills.github.io-00ff88?style=flat-square)](https://codexskills.github.io)
 [![Telegram](https://img.shields.io/badge/Telegram-@REXXT_H4RE-0088cc?style=flat-square&logo=telegram)](https://t.me/REXXT_H4RE)
 
 ---
@@ -18,7 +18,7 @@
 
 ```bash
 # Install StackForge
-git clone https://github.com/stackforgeh/skill-builder.git
+git clone https://github.com/codexskills/skill-builder.git
 cp -r skill-builder ~/.config/opencode/skills/stackforge
 
 # Then tell your AI assistant:
@@ -42,6 +42,6 @@ cp -r skill-builder ~/.config/opencode/skills/stackforge
 
 ### Quick Links
 
-- **Agent Skill**: [github.com/stackforgeh/skill-builder](https://github.com/stackforgeh/skill-builder)
-- **Portfolio**: [stackforgeh.github.io](https://stackforgeh.github.io)
+- **Agent Skill**: [github.com/codexskills/skill-builder](https://github.com/codexskills/skill-builder)
+- **Portfolio**: [codexskills.github.io](https://codexskills.github.io)
 - **Telegram**: [@REXXT_H4RE](https://t.me/REXXT_H4RE) (codex_update)
