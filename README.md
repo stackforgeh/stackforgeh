@@ -1,30 +1,37 @@
 <div align="center">
-  <h1>StackForge Agent Skill</h1>
-  <p><strong>OpenCode AI Project Blueprint Generator</strong></p>
-  <p><em>Website Builder · Telegram Bot Builder · AI Agent Builder · API Builder · Mobile App Builder · CLI Tool Builder</em></p>
-</div>
+
+# Codex Skiller
+
+### AI Agent Skill Builder — StackForge
+
+*Website Builder · Telegram Bot Builder · AI Agent Builder · API Builder · Mobile App Builder · CLI Tool Builder*
+
+[![StackForge](https://img.shields.io/github/stars/stackforgeh/stackforge?style=flat-square&logo=github&color=00ff88)](https://github.com/stackforgeh/stackforge)
+[![Portfolio](https://img.shields.io/badge/Portfolio-stackforgeh.github.io-00ff88?style=flat-square)](https://stackforgeh.github.io)
+[![Telegram](https://img.shields.io/badge/Telegram-@REXXT_H4RE-0088cc?style=flat-square&logo=telegram)](https://t.me/REXXT_H4RE)
 
 ---
 
-StackForge is an **OpenCode AI Agent Skill** that transforms software ideas into production-ready project blueprints. Unlike other StackForge projects (OpenStack mirrors, full-stack templates, networking libraries), this one is purpose-built for AI coding assistants like Claude Code, OpenCode, Codex, and Cursor.
+**StackForge** is an OpenCode AI Agent Skill that transforms software ideas into production-ready project blueprints.
 
-### What It Does
+</div>
 
-When you say *"I want to build X"* to your AI coding assistant, StackForge generates:
+```bash
+# Install StackForge
+git clone https://github.com/stackforgeh/stackforge.git
+cp -r stackforge ~/.config/opencode/skills/stackforge
 
-- **Tech Stack** — curated technology choices with justifications
-- **Folder Structure** — copy-paste ready directory tree
-- **Database Design** — column-level schema with indexes and relationships
-- **System Architecture** — ASCII diagrams with data flow and auth flow
-- **Development Roadmap** — phased timeline with milestones
-- **Deployment Guide** — platform-specific commands from local to production
+# Then tell your AI assistant:
+# "I want to build a Telegram bot for food ordering"
+# "Design a SaaS dashboard for analytics"
+```
 
-### Supported Project Types
+### What I Build
 
-| Type | Examples |
-|------|----------|
+| Project Type | Examples |
+|-------------|----------|
 | Web Application | SaaS, dashboard, e-commerce, landing page |
-| Bot | Telegram, Discord, Slack |
+| Bot | Telegram, Discord, Slack bots |
 | API / Backend | REST, GraphQL, microservices |
 | Mobile App | React Native, Flutter, SwiftUI |
 | AI System | RAG pipeline, LLM chatbot, AI agent |
@@ -33,22 +40,8 @@ When you say *"I want to build X"* to your AI coding assistant, StackForge gener
 | Browser Extension | Chrome, Firefox addons |
 | Desktop App | Tauri, Electron, native |
 
-### Try It
-
-```bash
-# 1. Install the skill
-git clone https://github.com/stackforgeh/stackforge.git
-cp -r stackforge ~/.config/opencode/skills/stackforge
-
-# 2. Open your AI coding assistant and say:
-# "I want to build a Telegram bot for food ordering"
-# "Design a SaaS dashboard for analytics"
-# "What stack should I use for a mobile app?"
-```
-
 ### Quick Links
 
-- [StackForge Agent Skill Repository](https://github.com/stackforgeh/stackforge)
-- [Portfolio Website](https://stackforgeh.github.io)
-- [Telegram Channel](https://t.me/REXXT_H4RE) (codex_update)
-- [OpenCode Skills Documentation](https://opencode.ai/docs/skills/)
+- **Agent Skill**: [github.com/stackforgeh/stackforge](https://github.com/stackforgeh/stackforge)
+- **Portfolio**: [stackforgeh.github.io](https://stackforgeh.github.io)
+- **Telegram**: [@REXXT_H4RE](https://t.me/REXXT_H4RE) (codex_update)
