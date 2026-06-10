@@ -90,6 +90,18 @@ Infra       → Vercel · Railway · Fly.io · Docker · GitHub Actions
 
 ---
 
+### 📡 Stay Updated
+
+<p align="center">
+  <a href="https://t.me/REXXT_H4RE">
+    <img src="https://img.shields.io/badge/Telegram-@REXXT_H4RE-0088cc?style=for-the-badge&logo=telegram&logoColor=white" />
+  </a>
+  <br/>
+  <b>Channel:</b> codex_update
+</p>
+
+---
+
 <div align="center">
   <i>Give me an idea, I'll give you a blueprint.</i>
   <br/><br/>
